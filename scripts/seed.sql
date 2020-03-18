@@ -17,5 +17,5 @@ CREATE TABLE scores (
 -- INSERT INTO score (username, score)
 -- VALUES ("han", 2);
 
-INSERT INTO score (username, score)
+INSERT INTO scores (username, score)
 VALUES ("obi-wan", 4), VALUES ("han", 2), VALUES ("luke", 3);
