@@ -1,6 +1,6 @@
 # React Star Wars Quiz
 
-The purpose of this project was to build a quiz using React.js that stores high scores using client-based storage, HTML, CSS, JavaScript, and jQuery. The benchmarks for success are below:
+The purpose of this project is to build a quiz using React.js. The benchmarks for success are below:
 <!-- 
 * User arrives at the home/welcome/start page and is prompted to start the quiz. Home page needed to include a navigation bar with a link to view high scores and visibility of the timer. -->
 
